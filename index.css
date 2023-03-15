@@ -141,7 +141,7 @@ body {
 #gambar {
  min-height: 100vh;
  display: flex;
- background-image: url("13.png");
+ background-image: url("img/13.png");
 }
 .animasi {
  display: none;
